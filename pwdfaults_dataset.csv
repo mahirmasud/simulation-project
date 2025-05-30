@@ -1,0 +1,601 @@
+FaultID,FaultType,Faultbuilding_Latitude_Longitude,Voltage_V,Current_A,PowerLoad_MW,PowerLoad_Demand_MW,Temperature_C,WindSpeed_km_h,WeatherCondition,MaintenanceStatus,ComponentHealth,DurationOfFault_hrs,DownTime_hrs
+F001,Transformer failure,"24.019713,90.712505",1867.57,233.08,54.13,46.92,39.4,12.1,thunderstorm,scheduled,faulty,6.8,9.4
+F002,powerload demand,"23.837515,90.811605",1911.44,181.72,49.75,37.51,41.5,18.6,rainy,scheduled,overheated,2.6,7.8
+F003,overheating,"24.068236,91.03835",1870.8,181.55,42.07,49.34,32.3,12.8,rainy,pending,overheated,8.9,5.1
+F004,overheating,"24.14609,90.743469",1835.48,202.65,40.93,45.89,38.6,14.2,thunderstorm,scheduled,overheated,6.5,7.6
+F005,line breakage,"23.910961,90.714899",1848.25,214.21,41.99,58.7,37.7,13.3,rainy,pending,faulty,2.4,4.2
+F006,line breakage,"23.809319,90.952678",1984.31,233.93,50.49,56.2,42.2,12.7,clear,completed,faulty,9.7,4.4
+F007,line breakage,"23.713268,90.799419",1882.53,227.83,48.23,47.76,43.4,22.4,clear,scheduled,faulty,5.7,4.3
+F008,powerload demand,"24.024942,90.972471",1945.71,211.21,38.7,42.63,28.2,14.3,clear,pending,normal,1.7,7.5
+F009,overheating,"23.81022,90.994633",2001.37,199.15,38.48,69.58,39.5,23.9,rainy,scheduled,overheated,6.6,3.5
+F010,overheating,"24.104715,90.703249",2076.16,249.8,36.97,50.89,28.9,24.5,rainy,pending,overheated,3.3,5.0
+F011,line breakage,"24.10291,91.04907",1815.72,209.83,48.21,59.09,37.3,18.6,rainy,scheduled,faulty,8.2,6.6
+F012,powerload demand,"23.870125,90.77774",2119.76,211.6,50.29,39.92,32.9,12.1,clear,pending,normal,8.4,8.2
+F013,powerload demand,"24.178607,90.868297",2051.16,191.45,40.3,52.0,33.2,15.6,clear,scheduled,faulty,9.8,8.4
+F014,line breakage,"23.746373,90.748358",1832.7,235.64,35.42,35.96,34.0,22.0,rainy,completed,faulty,5.5,3.9
+F015,line breakage,"24.123747,91.001863",2149.43,228.56,36.64,52.69,38.6,15.5,windstorm,completed,faulty,5.1,6.6
+F016,line breakage,"24.103564,91.064866",2168.35,195.45,54.36,68.74,33.7,11.3,thunderstorm,pending,faulty,7.8,6.8
+F017,Transformer failure,"23.968114,91.186558",1824.43,185.77,40.91,48.45,40.5,18.4,rainy,pending,faulty,2.2,5.4
+F018,overheating,"23.889267,90.97602",1910.75,227.63,50.38,36.36,34.9,22.7,clear,pending,overheated,5.9,6.0
+F019,Transformer failure,"24.114702,91.00926",2122.48,225.82,47.49,36.08,29.2,21.9,windstorm,pending,faulty,5.9,8.6
+F020,Transformer failure,"24.130853,90.988676",2099.3,199.13,42.64,48.58,41.3,12.6,rainy,scheduled,faulty,1.8,3.7
+F021,overheating,"24.052286,90.722912",1873.81,246.56,39.11,40.6,32.9,20.1,clear,scheduled,overheated,4.8,6.1
+F022,line breakage,"23.813949,90.844694",1883.74,190.57,37.43,35.82,35.4,13.3,windstorm,scheduled,faulty,8.7,8.0
+F023,Transformer failure,"23.739896,90.816395",1948.19,210.26,47.3,61.47,39.7,13.3,thunderstorm,scheduled,faulty,8.7,9.0
+F024,Transformer failure,"23.750501,90.838987",1993.81,246.05,50.49,51.05,33.7,23.1,thunderstorm,scheduled,faulty,1.9,9.0
+F025,Transformer failure,"24.017842,90.882416",2047.3,209.38,47.88,45.12,29.0,13.7,clear,completed,faulty,1.8,4.8
+F026,powerload demand,"23.88509,90.804754",1947.57,224.7,45.61,66.5,34.4,13.9,windstorm,scheduled,normal,3.4,7.7
+F027,line breakage,"23.833489,91.168327",1985.01,207.83,35.84,39.06,44.1,10.0,clear,completed,faulty,8.9,5.5
+F028,overheating,"24.024018,91.004566",2098.99,199.2,54.37,68.46,38.9,23.1,windstorm,scheduled,overheated,2.2,8.5
+F029,overheating,"23.785569,91.064563",1814.67,248.88,50.97,45.99,39.4,21.9,clear,scheduled,overheated,7.5,6.5
+F030,line breakage,"23.781701,90.889728",1900.97,208.65,40.86,66.09,38.7,19.4,rainy,completed,faulty,1.9,5.5
+F031,overheating,"24.194762,91.02",2085.34,242.59,54.6,56.1,31.4,21.3,windstorm,completed,overheated,6.6,6.6
+F032,line breakage,"23.978475,91.042307",2158.08,196.1,47.04,63.93,35.1,12.3,clear,completed,faulty,4.2,3.3
+F033,line breakage,"24.121426,91.088",2004.67,194.92,46.65,69.44,40.8,16.9,clear,completed,faulty,8.1,4.8
+F034,powerload demand,"23.814524,90.71605",2012.85,182.18,49.96,45.09,29.7,15.3,thunderstorm,scheduled,normal,3.1,6.8
+F035,powerload demand,"23.857727,90.83387",1842.87,225.62,51.24,68.64,32.7,11.4,rainy,completed,normal,6.8,7.5
+F036,powerload demand,"23.805491,91.171455",1978.96,205.8,48.13,48.63,32.7,17.3,clear,scheduled,faulty,3.1,7.4
+F037,Transformer failure,"24.138184,90.857339",2013.05,240.51,37.56,48.49,35.3,23.8,rainy,scheduled,faulty,7.4,3.2
+F038,line breakage,"24.027719,90.897816",1896.99,213.12,41.77,46.91,44.7,10.6,windstorm,completed,faulty,8.9,9.3
+F039,overheating,"24.157274,90.929426",1907.7,247.77,53.56,53.95,29.1,14.4,windstorm,scheduled,overheated,2.1,6.3
+F040,Transformer failure,"23.83244,90.823314",1950.91,192.99,39.49,40.4,36.8,13.1,clear,scheduled,faulty,8.8,6.5
+F041,line breakage,"23.980684,90.831371",1808.03,240.8,42.44,54.38,31.0,13.6,windstorm,pending,faulty,6.3,9.4
+F042,Transformer failure,"23.992293,91.148911",1928.83,234.36,43.64,53.96,44.5,23.6,clear,pending,faulty,2.1,5.5
+F043,line breakage,"23.8997,90.80966",1884.58,233.96,43.79,61.67,29.9,17.0,windstorm,scheduled,faulty,4.8,8.0
+F044,powerload demand,"24.198769,90.954763",1931.0,239.13,47.26,64.18,34.9,17.0,clear,scheduled,overheated,2.4,7.7
+F045,Transformer failure,"23.745455,90.723558",1847.9,233.27,53.86,50.42,40.5,21.4,clear,scheduled,faulty,7.3,6.2
+F046,overheating,"23.754825,91.013723",2156.21,223.84,39.81,45.58,40.0,12.3,thunderstorm,scheduled,overheated,7.8,9.6
+F047,Transformer failure,"24.09604,90.91108",2037.44,189.19,37.43,44.08,35.2,17.3,rainy,pending,faulty,2.0,4.8
+F048,overheating,"23.731764,90.89081",2071.64,182.28,38.95,41.81,33.9,16.4,rainy,scheduled,overheated,5.6,6.2
+F049,overheating,"24.198061,90.964557",2115.67,244.46,52.74,37.02,34.8,19.0,clear,completed,overheated,8.3,5.6
+F050,line breakage,"24.185539,91.13039",1999.38,223.17,47.92,46.99,32.5,25.0,thunderstorm,scheduled,faulty,9.4,7.3
+F051,powerload demand,"23.705741,91.060361",1834.77,235.76,40.72,44.46,31.5,21.5,clear,pending,normal,5.6,6.5
+F052,powerload demand,"24.040855,90.968485",2014.84,213.71,51.32,68.82,36.2,16.0,rainy,scheduled,normal,9.6,6.3
+F053,powerload demand,"23.833413,91.020481",2034.74,188.21,52.23,54.52,32.6,22.4,clear,completed,normal,5.8,7.0
+F054,powerload demand,"23.755776,90.917383",2098.18,188.76,51.93,47.15,32.9,12.6,clear,scheduled,normal,4.5,7.5
+F055,overheating,"23.926862,91.176908",1972.66,227.99,53.38,55.32,39.2,10.5,rainy,completed,overheated,8.6,3.7
+F056,powerload demand,"24.137926,90.831695",1851.03,210.12,40.04,39.87,44.5,13.1,windstorm,scheduled,normal,5.4,7.3
+F057,line breakage,"23.950293,90.789326",1913.51,194.04,50.1,50.54,38.3,15.1,thunderstorm,scheduled,faulty,5.2,7.8
+F058,line breakage,"24.156314,91.135259",1945.23,214.41,44.21,56.92,29.3,17.7,clear,pending,faulty,5.4,5.1
+F059,line breakage,"23.849222,91.019475",2058.37,184.49,51.84,52.11,29.3,19.2,clear,pending,faulty,8.6,3.6
+F060,Transformer failure,"24.004485,90.77642",2028.31,220.74,49.57,49.06,44.2,23.7,clear,pending,faulty,8.5,4.5
+F061,Transformer failure,"24.081255,90.96969",1942.44,198.83,50.53,69.78,33.1,17.6,rainy,completed,faulty,4.6,4.1
+F062,Transformer failure,"24.089313,90.965177",2194.61,235.83,48.12,65.81,29.6,17.5,thunderstorm,pending,faulty,4.0,7.6
+F063,powerload demand,"23.700286,90.862078",2042.31,201.73,38.55,56.82,38.2,10.8,clear,scheduled,normal,5.4,7.8
+F064,Transformer failure,"23.709738,91.164549",1894.89,211.87,45.9,54.93,38.6,10.5,clear,scheduled,faulty,6.2,6.2
+F065,Transformer failure,"24.139361,91.115833",1840.71,180.81,54.69,56.72,39.0,18.3,windstorm,scheduled,faulty,3.1,8.6
+F066,overheating,"23.853757,90.728963",1861.14,185.07,53.75,42.05,32.5,16.6,clear,completed,overheated,8.1,3.3
+F067,line breakage,"24.139005,91.173475",1898.38,207.47,35.86,48.83,28.3,22.6,windstorm,scheduled,faulty,5.4,6.4
+F068,powerload demand,"23.742827,90.942995",1864.27,213.6,38.3,36.38,44.4,12.4,rainy,scheduled,overheated,4.0,6.9
+F069,line breakage,"23.734606,91.080301",1874.63,222.0,37.63,51.64,32.3,10.4,thunderstorm,completed,faulty,2.0,8.9
+F070,powerload demand,"24.082917,90.764196",1914.04,200.42,49.52,54.01,39.5,16.7,thunderstorm,pending,normal,3.1,8.7
+F071,powerload demand,"23.937641,90.974902",1869.35,228.65,51.36,42.97,40.0,13.6,windstorm,scheduled,faulty,9.5,7.0
+F072,line breakage,"23.832528,91.136217",2158.71,240.21,39.27,68.74,38.4,10.7,thunderstorm,scheduled,faulty,3.7,8.3
+F073,line breakage,"23.911569,90.805899",1832.09,234.59,45.12,66.83,33.3,20.9,rainy,scheduled,faulty,2.5,3.6
+F074,powerload demand,"23.969648,91.064966",2009.8,182.77,51.81,60.28,32.6,11.7,clear,scheduled,faulty,5.1,8.9
+F075,overheating,"23.800576,90.855858",1964.16,213.64,49.66,53.67,38.2,19.1,windstorm,scheduled,overheated,3.8,8.8
+F076,overheating,"24.197575,91.024939",2192.95,187.35,45.84,65.45,42.7,14.2,clear,completed,overheated,1.3,4.6
+F077,powerload demand,"23.91905,90.958788",1844.82,196.94,46.81,39.57,44.1,12.6,clear,completed,normal,3.9,8.8
+F078,line breakage,"23.760502,90.812349",1959.14,249.07,45.17,62.67,29.8,15.7,clear,completed,faulty,5.9,4.2
+F079,Transformer failure,"23.869043,90.994154",2187.79,189.97,40.95,39.37,30.6,22.0,rainy,scheduled,faulty,6.0,4.5
+F080,line breakage,"23.815057,90.810109",2146.2,214.92,46.3,62.8,44.1,15.9,clear,pending,faulty,4.2,6.2
+F081,powerload demand,"23.735497,91.015551",2126.83,223.27,48.78,44.65,40.5,21.3,rainy,scheduled,overheated,5.0,8.0
+F082,overheating,"23.814471,91.15271",1903.16,229.17,52.47,65.7,43.0,11.9,windstorm,completed,overheated,9.7,9.3
+F083,Transformer failure,"24.129818,90.735429",1868.36,219.18,47.73,68.04,31.4,21.6,rainy,pending,faulty,4.4,6.0
+F084,line breakage,"23.819002,91.034489",2067.46,180.68,50.22,40.21,38.0,13.6,rainy,scheduled,faulty,3.3,5.7
+F085,Transformer failure,"23.807118,90.766156",2171.75,202.85,38.2,51.19,39.9,20.2,clear,scheduled,faulty,3.2,5.1
+F086,Transformer failure,"24.167757,90.985522",2022.71,216.24,44.23,69.33,39.6,18.5,clear,pending,faulty,5.1,5.6
+F087,overheating,"23.936336,91.09231",2028.65,186.15,35.19,51.92,34.9,23.9,thunderstorm,scheduled,overheated,7.8,7.7
+F088,overheating,"24.103748,90.795205",1911.99,204.54,39.93,65.22,28.3,15.8,clear,completed,overheated,2.9,4.4
+F089,powerload demand,"23.748465,90.915526",2107.8,182.32,49.53,55.61,37.9,11.0,clear,scheduled,faulty,7.4,6.5
+F090,Transformer failure,"23.911789,90.933512",1874.82,185.5,54.84,48.14,32.3,10.3,thunderstorm,completed,faulty,1.2,6.9
+F091,line breakage,"24.064538,91.036682",1929.47,207.78,36.98,45.0,35.7,22.4,clear,scheduled,faulty,4.8,6.8
+F092,overheating,"24.192083,90.749209",1970.17,189.29,43.03,42.11,44.3,17.9,rainy,scheduled,overheated,8.0,4.9
+F093,powerload demand,"23.901311,90.869651",2003.04,219.73,51.0,61.66,34.8,21.6,clear,completed,normal,4.0,6.4
+F094,overheating,"24.130836,90.824328",1896.96,228.26,39.08,48.53,42.3,13.5,thunderstorm,scheduled,overheated,6.1,6.3
+F095,powerload demand,"23.795104,90.924307",1845.93,236.04,46.1,52.89,31.2,15.2,clear,scheduled,normal,2.8,6.3
+F096,Transformer failure,"23.910941,90.839273",2044.25,194.01,49.66,52.23,39.4,10.5,rainy,scheduled,faulty,7.7,6.1
+F097,overheating,"23.824903,91.161633",1915.45,191.72,47.32,55.2,44.6,24.4,rainy,scheduled,overheated,1.5,6.3
+F098,Transformer failure,"23.921565,91.130675",2032.5,187.32,38.76,65.3,29.7,20.0,rainy,scheduled,faulty,8.7,6.5
+F099,line breakage,"23.975163,90.725294",1861.75,224.55,42.11,69.33,28.1,24.0,clear,scheduled,faulty,2.8,3.2
+F100,line breakage,"24.199641,91.118014",1992.46,229.45,50.68,49.27,35.4,14.0,clear,pending,faulty,8.9,4.3
+F101,line breakage,"24.184498,91.163183",2013.04,182.21,46.08,63.96,29.6,19.2,rainy,scheduled,faulty,4.2,6.1
+F102,overheating,"24.124348,90.783156",1820.73,245.53,35.1,61.76,40.7,20.2,thunderstorm,completed,overheated,7.5,6.5
+F103,Transformer failure,"23.942821,90.806874",1934.64,183.64,50.22,55.07,43.5,14.8,windstorm,scheduled,faulty,3.9,7.5
+F104,overheating,"23.90052,90.729318",1853.77,217.89,35.71,68.46,35.4,22.7,clear,scheduled,overheated,9.2,3.6
+F105,powerload demand,"23.889487,91.192654",1825.35,229.63,49.91,42.02,32.4,24.2,thunderstorm,pending,normal,2.1,8.3
+F106,line breakage,"23.832602,91.092035",2195.98,240.97,39.05,38.82,35.4,23.3,rainy,scheduled,faulty,2.6,6.2
+F107,Transformer failure,"23.927504,90.911504",1928.94,229.99,54.16,64.89,40.3,21.1,clear,pending,faulty,5.4,3.7
+F108,powerload demand,"24.178659,91.197711",2123.95,236.12,42.36,50.37,28.2,14.2,windstorm,scheduled,normal,1.7,7.2
+F109,line breakage,"23.977884,91.059204",1901.86,203.76,41.54,64.64,38.0,14.2,thunderstorm,completed,faulty,2.8,8.7
+F110,line breakage,"23.777398,90.848354",2072.6,237.04,37.98,66.26,38.4,24.5,windstorm,completed,faulty,9.5,7.0
+F111,Transformer failure,"24.184355,90.98959",2104.09,185.61,41.11,37.19,38.8,10.2,rainy,pending,faulty,9.8,4.8
+F112,line breakage,"23.971098,91.073988",2038.26,242.64,52.53,65.92,32.1,20.7,thunderstorm,completed,faulty,4.4,7.1
+F113,powerload demand,"23.728583,90.992089",1988.63,218.33,54.93,50.69,40.1,20.6,rainy,completed,overheated,9.3,7.3
+F114,powerload demand,"23.951425,91.12636",1964.74,237.21,42.37,52.87,29.6,19.3,thunderstorm,scheduled,faulty,5.9,6.9
+F115,overheating,"23.778716,91.180389",1939.55,211.66,43.97,56.93,31.4,24.9,thunderstorm,scheduled,overheated,3.4,9.2
+F116,powerload demand,"23.740056,90.792912",2171.81,225.05,49.44,67.42,42.9,14.7,rainy,pending,faulty,7.3,8.5
+F117,powerload demand,"23.997518,91.037606",2132.25,216.85,52.72,35.67,40.6,15.1,windstorm,scheduled,overheated,6.9,8.8
+F118,line breakage,"23.817602,90.759943",2186.01,231.21,46.86,51.69,28.2,11.2,rainy,scheduled,faulty,9.9,6.9
+F119,powerload demand,"24.145144,90.823108",1849.72,185.71,42.83,59.07,32.2,16.6,clear,completed,normal,3.4,6.8
+F120,overheating,"23.99726,91.009691",2092.35,184.22,43.25,60.29,31.6,13.9,clear,scheduled,overheated,7.0,4.5
+F121,powerload demand,"23.909612,90.991836",2175.34,197.3,48.91,59.24,32.6,15.2,clear,pending,overheated,1.5,8.9
+F122,powerload demand,"23.961391,91.167353",1872.49,191.17,35.06,39.71,32.2,22.5,thunderstorm,completed,normal,2.0,8.4
+F123,Transformer failure,"23.80213,91.058096",1826.6,241.02,47.39,45.48,29.1,24.0,windstorm,completed,faulty,1.0,6.6
+F124,line breakage,"23.819343,90.897893",2096.45,195.34,42.11,47.56,35.8,12.8,clear,pending,faulty,10.0,4.0
+F125,line breakage,"24.035845,90.849999",2029.79,248.31,50.88,63.16,40.5,15.6,thunderstorm,scheduled,faulty,8.2,8.6
+F126,Transformer failure,"23.858089,91.075932",2136.73,203.58,36.86,44.76,38.3,23.9,thunderstorm,scheduled,faulty,8.1,9.5
+F127,powerload demand,"23.736272,90.929143",1855.91,192.75,46.76,42.37,39.4,10.9,rainy,completed,faulty,5.6,6.3
+F128,powerload demand,"24.199227,91.198048",2118.11,235.28,44.62,68.51,29.4,11.4,thunderstorm,scheduled,normal,3.7,8.6
+F129,line breakage,"23.73663,90.806577",1880.65,226.11,47.85,35.31,44.2,12.4,rainy,completed,faulty,2.4,4.1
+F130,overheating,"23.8326,91.16663",1865.46,214.87,36.3,69.92,42.3,18.9,thunderstorm,pending,overheated,3.6,9.1
+F131,Transformer failure,"24.140432,91.139635",1865.71,218.88,46.6,58.69,41.7,12.3,rainy,completed,faulty,4.4,4.1
+F132,line breakage,"23.884764,90.778873",2125.83,230.34,46.23,64.0,42.0,24.5,rainy,scheduled,faulty,7.8,6.6
+F133,line breakage,"24.116872,91.05177",2066.08,195.99,46.21,45.31,43.9,16.7,clear,pending,faulty,5.9,3.6
+F134,Transformer failure,"24.005839,91.193617",2009.23,249.74,47.07,35.5,37.3,17.5,windstorm,completed,faulty,1.7,7.7
+F135,powerload demand,"24.026988,90.703912",1943.53,248.24,48.53,60.83,31.4,13.7,clear,completed,normal,1.2,6.7
+F136,Transformer failure,"24.108552,90.849689",2150.88,225.52,51.1,64.2,38.5,17.1,rainy,scheduled,faulty,1.9,4.8
+F137,overheating,"24.031694,91.169465",1956.98,193.97,40.4,60.92,40.6,19.9,clear,pending,overheated,4.7,4.4
+F138,overheating,"23.767146,90.757714",2126.64,227.62,51.5,40.0,40.5,21.3,thunderstorm,completed,overheated,9.4,6.1
+F139,Transformer failure,"23.753518,90.976612",1975.65,185.05,44.97,61.37,36.9,21.3,clear,completed,faulty,6.7,3.2
+F140,powerload demand,"23.836174,91.002415",1950.78,182.15,36.54,61.91,29.2,18.7,rainy,pending,normal,8.2,6.7
+F141,powerload demand,"24.058806,90.801799",1985.07,198.04,36.17,58.05,34.3,23.6,clear,scheduled,normal,5.2,7.1
+F142,Transformer failure,"24.017119,90.831992",1920.55,212.38,41.68,61.81,43.7,22.3,rainy,completed,faulty,4.3,3.1
+F143,Transformer failure,"23.944266,91.152668",2099.04,240.78,50.7,64.61,37.9,21.4,thunderstorm,pending,faulty,2.0,9.7
+F144,Transformer failure,"24.123052,90.746149",2001.09,230.9,49.15,56.48,37.2,10.8,thunderstorm,scheduled,faulty,8.9,9.4
+F145,Transformer failure,"23.911788,90.83834",1892.89,231.99,50.77,38.1,32.6,10.1,clear,completed,faulty,8.0,5.6
+F146,line breakage,"23.701773,91.08556",2159.83,209.78,45.35,52.07,34.3,13.2,clear,pending,faulty,2.5,6.2
+F147,overheating,"24.018557,90.830978",1953.56,204.22,43.8,37.72,43.2,20.0,windstorm,completed,overheated,5.6,6.6
+F148,overheating,"24.070615,90.97584",2017.42,205.97,37.95,49.26,39.3,16.2,clear,completed,overheated,5.4,4.1
+F149,line breakage,"23.913843,90.704835",2162.59,249.14,41.56,49.25,41.4,16.0,thunderstorm,pending,faulty,6.6,9.3
+F150,Transformer failure,"23.737622,91.141553",2049.7,182.81,43.68,37.31,35.7,23.3,windstorm,pending,faulty,9.5,8.8
+F151,powerload demand,"24.151964,90.972795",1846.76,240.69,36.77,47.21,38.7,23.4,windstorm,scheduled,normal,6.2,8.1
+F152,line breakage,"24.117298,90.991255",2175.93,220.51,39.41,38.88,32.2,23.6,clear,scheduled,faulty,5.9,4.8
+F153,line breakage,"23.774047,90.763723",2051.08,210.7,46.96,63.29,40.0,14.7,clear,completed,faulty,1.5,3.0
+F154,Transformer failure,"23.854129,91.149491",1933.96,230.77,49.71,68.17,35.3,20.4,thunderstorm,completed,faulty,1.6,6.3
+F155,powerload demand,"24.098061,91.130351",1855.71,214.07,54.97,37.53,35.5,14.1,clear,completed,overheated,2.7,8.5
+F156,line breakage,"24.149462,90.805038",2117.61,241.14,53.66,68.43,39.0,12.9,windstorm,completed,faulty,1.3,8.2
+F157,overheating,"23.824765,90.751397",2048.03,243.05,47.85,53.29,43.9,12.8,rainy,scheduled,overheated,7.7,5.9
+F158,powerload demand,"24.090058,91.142067",2013.38,209.52,43.42,45.48,29.1,15.1,windstorm,completed,faulty,7.5,6.3
+F159,line breakage,"23.903189,91.010331",2157.56,199.38,47.72,37.69,42.0,16.4,clear,scheduled,faulty,2.2,4.2
+F160,overheating,"23.777277,91.164941",2115.44,221.46,50.71,52.52,33.0,22.5,rainy,completed,overheated,8.5,4.2
+F161,Transformer failure,"24.132303,91.188103",1860.67,243.87,37.37,62.81,35.5,11.8,rainy,completed,faulty,2.4,3.2
+F162,overheating,"24.105386,91.140708",1924.69,194.75,43.2,59.75,28.4,21.0,windstorm,scheduled,overheated,3.7,7.7
+F163,overheating,"23.712393,91.068282",1899.4,223.61,51.8,36.76,33.1,18.0,windstorm,scheduled,overheated,3.2,9.2
+F164,overheating,"23.866093,91.165408",2097.58,224.21,42.68,37.55,36.5,14.3,clear,completed,overheated,4.4,4.8
+F165,line breakage,"24.101118,91.132032",1813.41,231.32,46.44,49.1,29.0,17.4,rainy,completed,faulty,3.3,3.4
+F166,powerload demand,"24.105375,90.833403",2027.96,189.21,46.76,45.34,36.3,14.5,windstorm,scheduled,normal,5.4,7.8
+F167,Transformer failure,"24.093687,90.754048",2104.98,230.11,38.69,43.13,43.8,18.9,rainy,pending,faulty,4.7,3.1
+F168,line breakage,"24.136083,91.129297",2150.71,243.63,42.24,44.84,29.8,16.5,clear,completed,faulty,9.9,5.1
+F169,line breakage,"23.811217,91.108293",1936.83,192.58,41.69,63.12,41.0,12.5,rainy,pending,faulty,1.5,4.0
+F170,overheating,"23.930152,90.852595",2128.5,196.63,35.52,67.52,35.0,11.7,rainy,completed,overheated,2.3,3.6
+F171,overheating,"24.097673,90.813798",1844.25,248.0,35.48,49.18,39.1,18.2,rainy,completed,overheated,1.5,4.7
+F172,line breakage,"23.711832,90.796565",2138.58,192.67,51.63,66.71,32.4,23.5,clear,pending,faulty,6.6,5.5
+F173,overheating,"23.864131,91.132176",1851.0,239.81,40.46,46.25,30.7,15.2,rainy,completed,overheated,1.5,4.0
+F174,line breakage,"24.183445,90.839562",1958.91,214.46,45.36,51.68,30.7,21.0,clear,completed,faulty,8.5,4.7
+F175,overheating,"24.020741,90.899839",2118.92,197.31,40.97,42.91,29.2,19.9,clear,scheduled,overheated,5.6,5.7
+F176,line breakage,"24.190575,90.968108",1859.97,240.95,53.81,57.42,31.2,24.0,clear,completed,faulty,5.7,3.3
+F177,overheating,"24.169619,90.757671",1891.7,211.17,40.19,69.26,39.3,22.3,clear,scheduled,overheated,6.1,6.9
+F178,Transformer failure,"24.1852,90.789284",2088.9,216.04,43.59,56.12,43.0,18.5,thunderstorm,scheduled,faulty,2.5,6.3
+F179,powerload demand,"24.181267,90.832733",2088.01,205.15,52.45,47.52,41.8,19.9,rainy,scheduled,overheated,2.8,7.5
+F180,line breakage,"23.754201,90.917282",2056.46,221.51,51.84,57.67,39.6,23.5,clear,scheduled,faulty,3.9,7.0
+F181,Transformer failure,"24.064273,90.856839",2077.58,191.45,38.72,39.3,29.9,16.0,rainy,pending,faulty,6.3,5.2
+F182,line breakage,"24.003104,90.955712",2017.09,207.38,51.05,66.1,32.9,14.9,rainy,scheduled,faulty,2.9,4.6
+F183,powerload demand,"23.892598,90.988294",1900.72,247.86,44.16,52.61,33.3,10.2,clear,completed,overheated,2.0,7.9
+F184,powerload demand,"23.827361,91.054393",1938.28,198.07,44.66,50.73,32.2,22.4,clear,pending,faulty,9.7,6.8
+F185,Transformer failure,"23.700846,91.162788",1872.64,225.97,37.67,55.51,36.8,22.0,thunderstorm,completed,faulty,1.2,6.1
+F186,overheating,"23.969226,91.059715",2163.38,202.76,36.61,56.87,37.1,11.6,clear,scheduled,overheated,8.2,6.2
+F187,powerload demand,"24.070975,91.035314",2033.36,234.14,49.56,37.51,34.1,18.7,thunderstorm,completed,normal,8.1,8.2
+F188,overheating,"23.882111,90.734987",1960.34,189.16,44.93,58.89,34.0,17.0,rainy,completed,overheated,3.7,5.5
+F189,overheating,"24.032119,90.8651",1984.8,247.89,43.74,43.47,42.1,11.8,rainy,completed,overheated,2.2,6.1
+F190,line breakage,"23.856958,91.124008",2178.91,211.77,49.59,59.99,41.4,24.7,rainy,completed,faulty,2.3,5.9
+F191,line breakage,"24.059877,90.850161",1861.34,196.52,50.31,63.79,33.2,13.2,rainy,pending,faulty,7.3,4.3
+F192,powerload demand,"23.854642,90.904196",2034.49,185.14,38.18,63.14,43.5,11.0,clear,completed,normal,6.8,7.6
+F193,powerload demand,"23.9012,90.847828",2002.36,191.88,47.2,54.34,44.2,18.9,windstorm,scheduled,normal,8.0,6.5
+F194,overheating,"23.763644,90.910223",2044.58,216.38,37.71,53.21,33.6,21.1,rainy,completed,overheated,9.4,6.1
+F195,Transformer failure,"24.170182,91.038659",1807.24,203.59,50.03,40.0,34.0,10.5,thunderstorm,scheduled,faulty,7.2,7.9
+F196,Transformer failure,"24.151403,91.007757",2148.85,238.02,48.14,62.14,36.6,19.9,thunderstorm,pending,faulty,2.4,8.8
+F197,overheating,"23.850475,90.973969",2172.85,210.16,54.13,44.5,44.0,18.0,rainy,scheduled,overheated,3.2,5.5
+F198,powerload demand,"23.700203,90.843457",2026.05,197.41,36.38,52.38,42.9,11.5,rainy,scheduled,faulty,8.6,6.2
+F199,powerload demand,"23.914944,90.989992",2078.66,223.2,36.14,44.95,29.7,12.6,rainy,pending,faulty,2.9,7.4
+F200,powerload demand,"24.027353,90.932494",2169.0,229.47,40.64,39.68,34.7,18.5,rainy,completed,faulty,1.7,6.1
+F201,overheating,"23.92108,90.806851",2082.9,191.69,40.23,57.03,37.4,14.4,rainy,scheduled,overheated,7.3,3.8
+F202,line breakage,"23.936593,91.15059",1861.02,191.73,39.94,36.9,36.6,24.1,clear,completed,faulty,4.6,3.2
+F203,line breakage,"24.098012,90.784846",2030.52,182.57,53.13,61.2,31.3,22.3,rainy,pending,faulty,9.3,6.7
+F204,powerload demand,"23.742398,90.957726",2042.69,231.55,39.99,46.12,42.6,24.8,clear,scheduled,faulty,6.9,9.0
+F205,overheating,"24.01647,90.867594",1969.65,226.47,40.44,35.0,39.5,13.9,thunderstorm,pending,overheated,1.8,8.2
+F206,line breakage,"24.109212,91.075569",2094.58,213.22,50.19,52.89,42.2,24.5,windstorm,scheduled,faulty,9.5,7.0
+F207,line breakage,"24.036398,90.81232",2173.75,239.09,43.99,36.64,42.6,16.5,thunderstorm,completed,faulty,3.3,9.0
+F208,overheating,"23.799565,90.712213",2170.23,236.4,50.53,44.67,40.7,15.2,rainy,pending,overheated,4.0,3.8
+F209,line breakage,"23.822421,90.937568",1980.34,220.97,36.31,59.74,35.5,10.8,clear,scheduled,faulty,4.6,4.4
+F210,line breakage,"24.124869,90.736414",1845.3,240.78,44.75,37.19,38.4,10.8,clear,completed,faulty,1.5,6.1
+F211,overheating,"23.907221,91.014883",2193.94,194.41,35.67,64.38,30.7,20.4,rainy,scheduled,overheated,5.5,6.5
+F212,overheating,"23.797218,91.048177",2135.56,187.83,36.25,35.13,39.5,16.9,rainy,completed,overheated,2.1,4.3
+F213,overheating,"23.947189,90.821992",1849.87,198.88,53.13,43.64,31.0,13.4,windstorm,completed,overheated,4.6,6.5
+F214,line breakage,"24.028029,90.702772",2168.34,184.0,37.78,60.93,39.8,19.2,windstorm,completed,faulty,4.2,7.5
+F215,overheating,"24.075482,91.085023",2147.96,217.18,45.65,46.07,31.9,13.8,clear,scheduled,overheated,8.0,6.6
+F216,line breakage,"23.753294,90.912573",2007.54,245.56,43.22,38.57,30.0,18.7,clear,scheduled,faulty,8.2,6.0
+F217,Transformer failure,"23.787943,91.178983",2036.51,182.75,41.95,47.61,30.8,15.4,clear,scheduled,faulty,2.4,6.6
+F218,overheating,"23.958979,90.725109",1959.6,188.55,53.0,44.46,28.0,22.4,rainy,scheduled,overheated,4.3,4.5
+F219,overheating,"23.824599,91.124168",1821.9,211.65,35.44,64.49,40.2,22.3,clear,completed,overheated,4.4,6.9
+F220,powerload demand,"23.928231,91.100708",1934.08,245.37,48.28,45.97,40.5,17.2,rainy,pending,normal,2.4,7.5
+F221,overheating,"24.033789,91.193946",2121.14,202.13,54.27,62.61,36.8,15.3,rainy,completed,overheated,8.2,6.7
+F222,overheating,"23.997726,91.17502",1801.85,215.51,46.2,66.22,30.7,15.4,thunderstorm,completed,overheated,7.4,8.1
+F223,line breakage,"24.145713,91.006326",1933.4,182.91,53.74,50.18,29.4,22.1,clear,pending,faulty,2.7,6.2
+F224,Transformer failure,"24.059637,90.952389",1959.27,190.38,36.05,66.85,28.3,14.9,windstorm,completed,faulty,4.3,8.9
+F225,Transformer failure,"24.115285,90.973936",2014.96,249.06,43.38,48.21,30.8,13.1,clear,pending,faulty,2.0,3.3
+F226,line breakage,"24.148604,91.071828",2167.94,247.56,40.2,68.74,43.1,11.3,clear,completed,faulty,6.7,5.4
+F227,powerload demand,"23.937337,90.829596",1938.54,180.35,49.62,38.13,32.1,17.0,rainy,scheduled,normal,2.1,7.6
+F228,Transformer failure,"23.82362,91.018831",1938.78,246.63,54.63,59.05,34.0,17.2,rainy,scheduled,faulty,9.9,4.3
+F229,powerload demand,"24.082907,90.96065",2095.0,224.74,40.13,52.28,29.8,22.6,rainy,completed,normal,8.0,8.0
+F230,overheating,"24.013374,90.837299",1980.89,240.75,48.08,48.57,31.8,13.3,windstorm,scheduled,overheated,4.5,7.2
+F231,powerload demand,"23.738742,90.842864",1889.84,211.83,38.96,57.14,36.8,15.7,windstorm,scheduled,faulty,6.2,7.3
+F232,overheating,"23.835858,90.859855",1980.98,216.09,46.31,59.63,38.3,22.1,clear,completed,overheated,9.2,5.8
+F233,overheating,"23.970076,90.769187",1856.34,214.22,44.28,35.15,32.2,22.4,clear,completed,overheated,6.0,4.4
+F234,Transformer failure,"23.815631,91.046975",1870.55,226.68,54.44,40.84,29.0,15.8,thunderstorm,completed,faulty,2.6,6.2
+F235,line breakage,"24.05321,90.732114",1999.35,189.78,47.17,59.96,34.6,16.9,rainy,scheduled,faulty,4.4,6.5
+F236,overheating,"23.9038,90.971306",1967.57,182.1,41.99,58.32,32.0,14.5,rainy,scheduled,overheated,8.6,4.4
+F237,Transformer failure,"23.907887,90.803417",2165.94,201.56,37.28,68.81,31.7,24.0,clear,completed,faulty,6.8,7.0
+F238,line breakage,"23.910072,91.152419",1944.96,229.33,38.02,61.64,44.3,11.8,windstorm,pending,faulty,6.9,7.1
+F239,overheating,"23.99204,91.047761",2032.24,194.13,39.51,68.28,38.5,24.0,thunderstorm,completed,overheated,8.8,9.9
+F240,line breakage,"24.128366,91.082797",2052.91,227.14,40.02,59.59,37.5,20.3,rainy,pending,faulty,9.0,6.8
+F241,powerload demand,"23.890191,90.702948",1805.24,247.89,52.01,45.43,35.1,18.0,thunderstorm,completed,normal,9.3,7.9
+F242,powerload demand,"23.875879,91.076738",2065.41,186.57,46.22,38.69,35.3,10.5,thunderstorm,completed,overheated,1.9,8.4
+F243,powerload demand,"24.126724,91.176715",1871.21,227.08,45.47,62.36,37.2,17.1,rainy,scheduled,normal,5.9,8.9
+F244,Transformer failure,"23.909511,91.073758",2184.43,211.06,37.3,57.55,39.8,16.1,clear,completed,faulty,7.7,3.6
+F245,line breakage,"23.973066,91.001626",1859.47,240.77,52.2,36.69,39.9,12.4,clear,completed,faulty,7.8,5.4
+F246,powerload demand,"23.810269,90.809711",1965.85,192.4,49.46,47.6,30.9,19.8,thunderstorm,completed,normal,6.5,6.1
+F247,Transformer failure,"23.917918,90.714512",1834.14,228.48,36.35,68.49,36.5,24.6,rainy,completed,faulty,2.5,3.3
+F248,powerload demand,"23.868065,91.039571",2198.75,238.67,49.16,52.51,35.0,18.4,windstorm,completed,faulty,8.2,7.1
+F249,powerload demand,"23.902158,90.782522",2000.88,246.12,45.87,50.15,42.8,20.7,clear,scheduled,faulty,7.5,7.7
+F250,powerload demand,"23.933695,90.763814",2038.15,227.83,36.63,51.02,38.7,11.0,windstorm,completed,normal,1.8,8.0
+F251,Transformer failure,"24.011128,90.713483",1826.83,214.8,44.17,42.31,37.1,16.3,clear,scheduled,faulty,5.2,6.8
+F252,Transformer failure,"23.89701,90.982196",2099.98,223.25,44.69,47.9,30.0,11.7,clear,pending,faulty,2.6,4.5
+F253,powerload demand,"23.713551,91.021375",1883.96,240.82,38.32,47.94,38.3,19.2,thunderstorm,scheduled,normal,4.0,7.7
+F254,Transformer failure,"23.76785,90.930849",2159.22,219.94,53.91,36.83,30.0,24.1,thunderstorm,scheduled,faulty,1.2,8.1
+F255,line breakage,"23.725142,90.889552",1882.06,182.13,52.0,61.86,33.7,19.9,thunderstorm,completed,faulty,4.6,7.6
+F256,overheating,"23.80583,90.863423",1876.28,245.17,48.38,49.58,30.4,11.2,rainy,completed,overheated,5.9,5.6
+F257,powerload demand,"24.080615,90.889563",1814.62,228.27,44.25,63.78,39.8,15.3,windstorm,completed,faulty,6.6,6.3
+F258,overheating,"24.076005,91.115962",1988.83,227.36,43.24,64.76,31.5,18.3,rainy,scheduled,overheated,7.0,5.9
+F259,overheating,"23.826136,90.740953",2025.94,195.1,48.02,42.42,34.7,16.0,clear,completed,overheated,8.5,5.0
+F260,line breakage,"23.709692,90.96971",1826.28,226.12,45.91,58.01,43.2,22.5,clear,scheduled,faulty,2.9,4.5
+F261,overheating,"24.199954,90.87498",2110.21,207.57,36.25,51.53,31.5,22.2,clear,pending,overheated,2.1,5.2
+F262,powerload demand,"24.025072,91.090617",1981.32,225.59,45.25,65.81,36.6,19.2,clear,pending,normal,8.7,6.8
+F263,line breakage,"24.025877,91.077117",2009.76,187.46,51.13,42.55,35.1,15.6,thunderstorm,completed,faulty,2.4,7.8
+F264,overheating,"24.174806,90.79968",1976.31,226.05,44.18,58.72,28.3,13.8,rainy,scheduled,overheated,9.8,7.0
+F265,powerload demand,"23.71019,90.776191",1960.31,249.96,36.04,56.27,41.5,11.6,windstorm,completed,faulty,8.6,8.7
+F266,overheating,"23.76311,91.034729",2023.86,183.37,50.73,45.34,29.2,15.3,clear,scheduled,overheated,5.5,5.0
+F267,overheating,"23.981985,90.808982",1862.1,248.4,39.03,39.78,36.1,16.2,rainy,completed,overheated,9.8,3.5
+F268,overheating,"24.049732,91.083449",1872.77,208.48,40.17,57.81,37.5,20.1,rainy,scheduled,overheated,1.9,6.4
+F269,Transformer failure,"23.783895,91.003624",2144.71,240.95,38.29,60.85,38.7,19.9,thunderstorm,pending,faulty,3.7,7.8
+F270,Transformer failure,"24.073963,90.757266",2178.45,234.77,41.6,46.05,39.7,11.1,thunderstorm,scheduled,faulty,6.7,9.6
+F271,powerload demand,"24.109651,91.18236",1949.32,219.69,50.14,57.57,32.3,15.9,thunderstorm,completed,overheated,4.2,6.3
+F272,powerload demand,"23.754049,90.712839",1908.3,231.69,45.39,48.83,28.2,12.7,thunderstorm,completed,normal,9.4,8.5
+F273,powerload demand,"23.855979,91.038674",2057.6,241.5,39.1,59.96,40.3,12.4,rainy,completed,faulty,1.6,7.0
+F274,powerload demand,"24.179086,90.898327",1963.49,208.29,52.56,41.97,37.1,22.4,clear,scheduled,normal,5.9,7.6
+F275,overheating,"24.057507,90.737998",1810.15,202.89,52.59,66.16,42.2,10.6,windstorm,pending,overheated,6.3,9.6
+F276,overheating,"24.045307,91.013621",1862.46,226.73,52.41,45.06,42.0,16.3,clear,completed,overheated,6.9,6.4
+F277,powerload demand,"23.750951,91.08624",2086.39,236.55,39.78,47.87,42.3,12.5,clear,completed,normal,3.3,8.8
+F278,overheating,"24.125147,91.000206",2063.57,233.36,44.02,37.03,36.2,23.2,clear,scheduled,overheated,4.3,5.6
+F279,overheating,"23.760528,91.191922",1810.84,235.85,54.7,38.9,33.7,18.4,clear,completed,overheated,8.6,6.2
+F280,powerload demand,"24.091318,90.873602",1888.79,210.49,50.44,53.06,41.5,13.5,clear,completed,normal,2.8,6.4
+F281,powerload demand,"23.914189,90.885285",1892.43,237.25,35.54,44.37,35.7,17.5,rainy,scheduled,normal,8.4,6.4
+F282,Transformer failure,"23.95298,90.870616",2068.76,188.41,36.3,64.24,31.1,21.0,clear,scheduled,faulty,6.1,6.2
+F283,Transformer failure,"24.124788,91.111165",1807.88,218.11,44.28,35.51,42.5,24.4,clear,pending,faulty,7.9,3.1
+F284,line breakage,"23.752769,91.180394",1841.64,180.4,53.18,48.27,43.0,13.3,clear,scheduled,faulty,7.4,5.2
+F285,overheating,"24.017793,91.114354",2119.97,202.72,45.77,46.81,35.9,23.3,rainy,scheduled,overheated,2.9,4.5
+F286,line breakage,"24.053654,90.917744",1871.42,205.65,44.96,35.68,29.3,24.0,windstorm,completed,faulty,6.1,9.2
+F287,Transformer failure,"24.066898,91.182737",2061.1,207.73,37.11,39.35,34.6,23.7,rainy,completed,faulty,8.8,5.2
+F288,overheating,"23.835041,91.1041",1895.27,228.68,48.14,49.48,41.7,19.5,clear,scheduled,overheated,4.9,5.4
+F289,Transformer failure,"23.969086,90.941749",1839.78,207.2,51.44,52.25,43.3,19.4,windstorm,completed,faulty,9.7,6.3
+F290,overheating,"23.917787,91.065513",1897.27,211.41,42.61,49.15,31.5,16.0,clear,scheduled,overheated,5.1,4.2
+F291,line breakage,"23.834198,91.125857",2088.91,196.63,50.51,53.58,29.1,21.3,rainy,scheduled,faulty,2.3,7.0
+F292,line breakage,"24.115366,90.743331",2142.28,206.13,54.29,55.83,42.9,18.0,windstorm,scheduled,faulty,4.5,8.9
+F293,powerload demand,"24.140816,90.821932",2132.09,195.91,39.08,35.35,34.6,20.2,clear,pending,faulty,9.6,8.3
+F294,Transformer failure,"23.932354,91.005166",1958.87,185.12,45.47,51.24,37.2,16.4,windstorm,scheduled,faulty,3.9,9.3
+F295,line breakage,"23.889495,90.71435",2067.23,222.24,40.74,68.72,44.5,21.0,windstorm,scheduled,faulty,8.8,6.3
+F296,overheating,"24.125476,90.79092",1881.99,226.77,50.86,53.17,29.1,22.4,windstorm,completed,overheated,8.9,9.9
+F297,powerload demand,"23.80606,91.098916",1917.26,223.36,46.55,58.71,39.0,12.2,clear,pending,normal,4.2,7.3
+F298,line breakage,"23.870169,91.14016",2158.53,212.44,47.69,45.92,29.3,22.5,rainy,scheduled,faulty,1.7,5.7
+F299,overheating,"24.050592,90.838134",1805.2,206.59,50.96,62.09,34.4,18.1,rainy,completed,overheated,7.5,4.4
+F300,line breakage,"23.705076,91.174031",1834.2,240.43,42.92,62.05,41.7,22.7,clear,scheduled,faulty,3.8,6.5
+F301,line breakage,"23.742806,91.060037",1883.15,216.34,53.3,53.25,35.4,16.5,clear,completed,faulty,8.0,6.1
+F302,overheating,"23.944289,91.079082",1810.61,213.54,45.66,69.16,45.0,15.7,clear,completed,overheated,5.0,5.6
+F303,overheating,"24.045305,91.022951",1872.57,181.79,38.16,39.39,37.5,23.7,rainy,completed,overheated,5.4,3.7
+F304,overheating,"23.945411,91.096466",2033.22,203.89,48.92,35.59,33.5,13.8,rainy,scheduled,overheated,8.0,6.9
+F305,overheating,"23.746527,90.810798",1968.57,206.61,50.87,61.96,31.7,22.7,clear,scheduled,overheated,4.4,4.7
+F306,powerload demand,"24.045894,90.853103",2157.07,207.92,41.34,63.25,34.0,17.3,rainy,scheduled,normal,5.0,6.2
+F307,overheating,"23.990778,90.93663",2126.98,220.61,52.14,39.21,34.3,17.7,windstorm,scheduled,overheated,4.4,6.5
+F308,Transformer failure,"23.965461,90.912752",1936.73,217.35,53.12,44.3,29.2,14.6,rainy,scheduled,faulty,4.3,3.6
+F309,powerload demand,"24.072968,90.865396",1903.77,222.55,40.54,35.61,34.3,18.6,clear,completed,faulty,5.7,7.0
+F310,Transformer failure,"24.051427,90.835458",1951.88,233.54,54.67,45.27,35.9,14.9,thunderstorm,pending,faulty,8.3,8.8
+F311,Transformer failure,"23.825702,90.760328",2036.12,236.91,37.81,62.06,40.3,10.6,rainy,pending,faulty,4.3,4.4
+F312,line breakage,"23.796292,90.759777",1907.23,230.27,39.04,53.13,39.2,14.1,clear,pending,faulty,5.7,6.8
+F313,line breakage,"23.967932,91.081095",2049.66,246.89,38.68,47.18,40.0,10.1,rainy,completed,faulty,7.0,6.6
+F314,powerload demand,"23.792575,90.808192",1963.76,181.28,52.88,48.01,28.1,24.7,windstorm,completed,overheated,3.4,6.8
+F315,powerload demand,"23.942099,91.062293",2020.82,193.7,48.09,35.05,31.7,24.5,clear,scheduled,faulty,3.5,7.7
+F316,overheating,"24.188304,90.962318",1974.45,180.53,38.04,45.49,39.2,15.9,clear,completed,overheated,9.4,3.5
+F317,Transformer failure,"23.841499,90.750263",1917.79,225.32,43.81,57.63,36.2,20.9,clear,completed,faulty,7.5,4.2
+F318,line breakage,"23.797059,90.813742",2179.38,242.86,47.31,69.1,28.1,15.2,thunderstorm,completed,faulty,6.2,8.1
+F319,line breakage,"23.789721,90.707074",2105.44,197.04,36.67,64.65,41.7,20.1,rainy,completed,faulty,6.8,5.0
+F320,Transformer failure,"23.967068,90.837156",1856.05,244.89,52.65,35.83,41.1,22.1,rainy,scheduled,faulty,1.3,3.7
+F321,overheating,"24.187147,90.976679",2147.39,184.22,51.07,66.45,37.3,24.2,thunderstorm,scheduled,overheated,6.6,9.8
+F322,overheating,"24.048709,90.76314",1994.97,245.41,45.1,62.41,29.1,16.0,clear,pending,overheated,5.6,3.6
+F323,overheating,"24.134231,90.945439",2157.82,204.61,54.34,62.31,41.0,21.7,thunderstorm,scheduled,overheated,5.9,8.6
+F324,Transformer failure,"24.13636,90.987032",2119.94,187.1,43.36,51.03,37.9,14.0,clear,completed,faulty,4.2,5.9
+F325,powerload demand,"23.934698,90.920234",1970.09,214.01,54.68,48.93,41.3,24.9,thunderstorm,pending,normal,1.7,8.5
+F326,overheating,"23.792182,90.725688",1808.99,197.97,48.36,45.6,40.8,10.4,clear,completed,overheated,2.7,5.3
+F327,overheating,"24.170532,90.938865",1907.47,199.94,47.69,37.3,41.7,19.1,windstorm,completed,overheated,9.6,9.3
+F328,overheating,"24.111058,90.900354",2016.65,201.51,38.32,42.99,36.8,19.9,thunderstorm,scheduled,overheated,4.7,6.1
+F329,Transformer failure,"23.737041,91.014723",2053.39,236.21,52.64,43.63,30.4,20.3,clear,scheduled,faulty,5.2,3.2
+F330,line breakage,"23.726805,90.774599",1903.16,217.74,43.55,51.94,39.4,11.8,rainy,pending,faulty,1.5,5.6
+F331,Transformer failure,"23.98142,90.851918",1855.74,201.79,38.24,61.16,38.5,24.1,rainy,completed,faulty,1.3,5.3
+F332,powerload demand,"24.196959,90.759226",2133.97,222.72,35.25,51.58,40.6,12.7,rainy,completed,normal,7.5,8.3
+F333,line breakage,"24.082222,91.003159",2193.76,230.13,46.2,37.02,30.9,19.3,rainy,scheduled,faulty,5.8,4.7
+F334,line breakage,"24.09537,90.812844",2010.28,199.08,45.55,68.52,31.3,13.3,clear,scheduled,faulty,5.6,5.6
+F335,line breakage,"23.961286,90.925257",1868.67,208.95,49.39,68.0,43.1,14.6,clear,pending,faulty,3.2,5.0
+F336,line breakage,"23.921361,91.130083",1908.92,188.53,52.81,62.48,40.7,18.2,clear,scheduled,faulty,7.7,5.5
+F337,powerload demand,"24.195016,90.85269",1807.36,192.68,36.59,69.7,43.4,16.3,clear,completed,faulty,2.5,8.9
+F338,overheating,"24.010514,91.004815",2165.72,227.68,49.63,54.06,40.9,12.4,windstorm,scheduled,overheated,2.7,7.9
+F339,Transformer failure,"24.070045,91.173795",1847.1,192.7,38.75,68.7,38.2,12.6,rainy,completed,faulty,5.1,6.2
+F340,line breakage,"23.803894,90.805513",2030.61,216.76,52.16,37.65,39.1,16.3,rainy,pending,faulty,3.6,5.7
+F341,Transformer failure,"24.030214,90.778529",1909.62,229.63,51.38,47.8,43.1,21.4,rainy,completed,faulty,3.2,4.2
+F342,Transformer failure,"23.786907,90.737532",2021.67,187.48,45.82,42.89,37.8,23.5,clear,scheduled,faulty,6.8,3.3
+F343,line breakage,"23.701338,90.925252",2060.57,219.71,49.2,41.85,38.8,11.3,rainy,completed,faulty,6.9,3.2
+F344,Transformer failure,"23.996906,90.84563",2131.9,197.96,41.29,39.93,30.7,15.9,rainy,completed,faulty,8.4,4.8
+F345,Transformer failure,"23.815738,91.053478",1882.57,247.4,44.42,56.78,36.1,11.5,clear,completed,faulty,4.8,4.9
+F346,overheating,"24.051494,90.927016",1804.4,213.85,51.43,62.35,40.2,10.2,thunderstorm,pending,overheated,1.7,6.8
+F347,overheating,"24.043692,91.161956",1854.75,236.42,44.19,55.24,32.6,19.9,rainy,completed,overheated,3.5,5.4
+F348,line breakage,"24.093914,91.012529",2160.01,218.52,42.16,40.14,31.4,19.0,windstorm,pending,faulty,9.8,7.3
+F349,Transformer failure,"24.030592,91.166834",2149.56,183.04,44.88,63.39,33.3,12.4,windstorm,completed,faulty,6.4,8.9
+F350,overheating,"23.912569,90.972281",2038.97,224.32,51.56,57.26,32.1,13.5,windstorm,scheduled,overheated,7.4,8.9
+F351,overheating,"24.023817,91.154206",2040.21,246.6,41.7,48.59,31.7,10.4,thunderstorm,scheduled,overheated,1.1,9.4
+F352,powerload demand,"24.113316,90.735705",2066.01,222.11,38.48,58.59,35.2,22.5,rainy,scheduled,faulty,5.7,6.4
+F353,overheating,"23.782961,90.853806",1870.15,237.34,49.24,44.1,43.4,24.6,rainy,pending,overheated,1.3,4.5
+F354,line breakage,"24.074479,90.984604",2165.76,241.89,51.52,47.08,36.6,12.0,thunderstorm,completed,faulty,6.1,8.2
+F355,line breakage,"23.844305,90.762177",1967.51,195.97,37.01,67.11,31.2,13.5,clear,completed,faulty,9.3,4.3
+F356,overheating,"24.044339,91.049867",1953.26,194.84,39.8,45.17,29.3,23.0,clear,scheduled,overheated,9.7,4.9
+F357,line breakage,"24.171338,90.950236",2007.57,222.77,37.84,51.45,39.8,23.9,windstorm,scheduled,faulty,5.9,7.1
+F358,overheating,"23.946898,90.740221",1818.79,208.77,41.96,66.15,34.5,16.3,windstorm,completed,overheated,5.1,7.0
+F359,powerload demand,"23.71993,90.916014",1866.51,238.79,44.01,59.77,42.0,10.8,thunderstorm,completed,normal,9.5,6.9
+F360,overheating,"23.861161,90.825184",2095.21,243.0,49.98,37.18,39.2,10.6,thunderstorm,scheduled,overheated,7.1,7.5
+F361,Transformer failure,"23.745663,91.180956",1833.12,204.74,48.02,40.16,41.5,18.6,windstorm,completed,faulty,1.6,8.5
+F362,overheating,"24.117979,90.9876",2041.26,196.58,47.42,35.27,32.6,15.9,rainy,scheduled,overheated,5.2,4.0
+F363,Transformer failure,"24.175393,91.199786",1898.14,234.64,42.05,57.08,39.8,10.4,thunderstorm,scheduled,faulty,3.2,9.5
+F364,overheating,"24.036141,90.834756",1955.72,199.24,51.83,50.67,32.5,18.7,rainy,completed,overheated,5.2,3.6
+F365,powerload demand,"23.720116,91.078134",1915.48,237.58,44.43,39.7,44.0,10.2,rainy,scheduled,overheated,5.1,7.7
+F366,Transformer failure,"23.93525,91.025755",1942.27,209.66,54.58,68.53,38.8,21.8,thunderstorm,pending,faulty,6.2,7.3
+F367,powerload demand,"24.158036,90.790745",2087.62,226.73,47.68,53.54,33.5,14.6,rainy,scheduled,normal,4.2,7.5
+F368,powerload demand,"23.992665,91.017392",1918.85,186.69,37.53,43.47,32.6,10.6,rainy,scheduled,normal,2.5,7.5
+F369,line breakage,"23.945863,90.745621",2026.56,223.67,48.52,52.52,31.2,18.8,rainy,scheduled,faulty,5.5,4.2
+F370,line breakage,"23.873981,90.866654",1990.42,211.62,41.5,58.79,39.8,16.0,thunderstorm,completed,faulty,8.5,6.1
+F371,line breakage,"24.035067,91.128867",2065.47,221.06,48.73,37.67,31.7,24.6,clear,completed,faulty,7.0,6.8
+F372,line breakage,"23.864902,91.046837",2174.73,191.76,36.39,44.61,38.1,18.2,windstorm,completed,faulty,4.0,8.0
+F373,line breakage,"23.844109,91.172597",2093.03,231.58,38.5,63.24,32.5,14.1,rainy,scheduled,faulty,9.4,6.9
+F374,overheating,"24.106783,90.975048",1885.98,240.4,52.11,51.09,39.3,20.6,windstorm,scheduled,overheated,9.2,6.9
+F375,line breakage,"23.927413,90.857259",1812.47,195.17,39.54,54.13,41.9,14.1,windstorm,completed,faulty,2.9,7.4
+F376,Transformer failure,"23.861637,91.185092",1904.91,186.7,51.74,50.15,41.2,23.6,clear,pending,faulty,1.4,3.2
+F377,powerload demand,"23.902088,90.957298",2038.03,181.65,40.59,36.54,40.9,15.6,clear,pending,faulty,7.7,8.6
+F378,line breakage,"24.19406,91.02883",1820.57,224.94,47.86,40.8,31.2,18.2,rainy,scheduled,faulty,8.4,5.6
+F379,powerload demand,"23.971297,90.906624",1998.55,222.5,48.88,50.59,29.5,10.8,thunderstorm,completed,overheated,9.7,7.6
+F380,Transformer failure,"23.793791,90.88089",2038.74,218.27,45.25,42.32,39.9,16.4,windstorm,pending,faulty,9.0,9.4
+F381,line breakage,"24.078222,91.012704",1933.7,196.24,41.11,36.75,34.3,22.5,thunderstorm,scheduled,faulty,6.4,7.7
+F382,overheating,"24.079995,90.801779",2108.36,207.36,39.25,64.53,35.3,22.1,clear,pending,overheated,5.8,6.5
+F383,overheating,"23.97461,91.163836",1842.64,221.61,35.66,69.34,28.5,13.4,windstorm,scheduled,overheated,1.3,8.9
+F384,powerload demand,"23.919058,91.049125",1830.06,214.77,41.08,62.76,32.4,13.4,windstorm,pending,normal,3.2,7.1
+F385,overheating,"23.760713,91.186573",2091.28,249.14,48.06,64.88,28.6,22.3,windstorm,completed,overheated,5.1,7.6
+F386,powerload demand,"24.004436,90.819649",1998.2,189.55,53.77,43.47,42.9,24.0,thunderstorm,pending,overheated,6.7,6.6
+F387,Transformer failure,"23.779189,90.97542",2075.36,228.66,52.42,68.62,32.1,11.4,clear,completed,faulty,6.0,5.2
+F388,line breakage,"23.976126,90.746605",1973.93,208.3,50.32,41.89,37.5,16.8,rainy,scheduled,faulty,7.7,3.3
+F389,powerload demand,"24.196129,91.156465",1898.56,209.97,50.77,68.3,28.7,15.1,windstorm,pending,overheated,3.5,8.3
+F390,powerload demand,"23.930724,90.758733",2127.64,230.23,48.3,69.82,39.3,23.1,windstorm,scheduled,normal,6.1,9.0
+F391,powerload demand,"24.116072,90.949188",2119.77,228.47,40.21,59.91,33.5,11.3,clear,scheduled,normal,1.8,6.4
+F392,Transformer failure,"24.058302,90.954436",2077.88,249.39,53.14,69.34,43.3,13.2,rainy,completed,faulty,4.7,6.9
+F393,Transformer failure,"23.836712,91.117362",1908.86,188.99,48.41,54.93,43.1,21.3,clear,completed,faulty,7.8,4.6
+F394,powerload demand,"24.190122,90.821865",2036.09,187.29,46.21,44.08,33.5,10.8,clear,pending,overheated,7.2,7.0
+F395,Transformer failure,"23.975633,90.891793",1944.39,230.7,37.22,50.29,43.3,17.4,clear,scheduled,faulty,9.9,6.8
+F396,powerload demand,"24.160934,90.95412",1836.63,220.49,43.94,55.77,44.9,16.6,windstorm,completed,faulty,3.5,6.6
+F397,powerload demand,"24.139663,91.132013",2166.93,199.19,44.21,37.56,42.0,15.0,windstorm,completed,normal,5.5,7.5
+F398,Transformer failure,"23.838124,91.095003",1854.73,185.56,52.29,56.78,42.4,15.9,rainy,scheduled,faulty,4.0,3.2
+F399,powerload demand,"23.907471,91.167124",2180.09,186.0,45.93,69.34,32.2,17.9,clear,scheduled,overheated,5.0,7.0
+F400,powerload demand,"23.953869,91.110275",1978.4,242.59,42.61,41.65,37.8,12.4,rainy,scheduled,normal,8.7,7.4
+F401,line breakage,"23.841419,90.849278",1874.05,193.43,54.54,62.74,29.1,18.6,rainy,scheduled,faulty,7.2,5.4
+F402,powerload demand,"23.993469,91.199451",2016.76,202.64,37.21,66.78,29.6,22.1,windstorm,pending,normal,8.9,7.0
+F403,overheating,"23.94482,90.774298",2149.18,195.87,43.45,68.03,45.0,21.4,thunderstorm,completed,overheated,2.8,8.5
+F404,powerload demand,"23.96929,90.872562",2092.89,204.85,35.84,68.6,33.6,12.3,clear,completed,overheated,8.9,9.0
+F405,Transformer failure,"23.975959,90.971715",2122.62,184.86,49.8,53.25,40.7,12.2,windstorm,pending,faulty,1.5,9.0
+F406,powerload demand,"23.927672,90.860889",2063.51,216.33,53.36,69.21,41.7,14.0,thunderstorm,scheduled,normal,9.0,7.0
+F407,Transformer failure,"23.794326,91.048749",2076.91,184.73,40.6,61.51,42.6,15.4,thunderstorm,pending,faulty,4.0,9.3
+F408,line breakage,"23.985899,90.816781",2139.68,236.02,52.17,40.66,45.0,16.1,rainy,completed,faulty,3.8,5.1
+F409,powerload demand,"24.087772,90.721824",1899.87,196.36,40.84,51.69,32.1,20.2,thunderstorm,pending,faulty,5.6,6.9
+F410,line breakage,"24.072353,91.052614",1995.77,217.8,53.22,60.14,28.7,10.9,clear,scheduled,faulty,9.5,6.3
+F411,Transformer failure,"24.105704,90.893039",1888.48,241.61,50.08,43.66,35.0,10.5,clear,pending,faulty,1.4,4.5
+F412,powerload demand,"24.031844,91.110374",2195.07,225.56,51.1,57.42,30.2,15.9,rainy,scheduled,overheated,4.2,8.9
+F413,powerload demand,"24.190409,90.947664",2177.62,217.31,35.36,58.33,28.4,20.5,clear,scheduled,overheated,8.7,8.4
+F414,overheating,"23.71851,90.951146",1815.77,202.7,54.26,40.69,34.1,12.9,rainy,completed,overheated,4.6,5.9
+F415,overheating,"23.99509,91.13485",2082.23,203.31,49.53,54.78,41.3,19.6,rainy,scheduled,overheated,2.8,5.8
+F416,Transformer failure,"24.137095,90.920153",2170.1,226.86,41.1,62.01,37.6,13.9,clear,completed,faulty,4.8,3.1
+F417,Transformer failure,"23.962976,90.928464",1872.23,249.59,51.59,52.46,33.3,23.3,thunderstorm,completed,faulty,4.5,7.9
+F418,Transformer failure,"24.061222,90.904989",2027.18,226.33,40.63,35.42,39.1,23.4,thunderstorm,completed,faulty,9.2,9.9
+F419,overheating,"24.027391,90.777181",2166.2,219.04,52.46,35.32,31.9,14.5,clear,scheduled,overheated,7.9,6.1
+F420,powerload demand,"23.934745,91.184602",1813.58,231.15,37.25,47.5,28.2,13.4,thunderstorm,scheduled,normal,5.5,7.7
+F421,powerload demand,"23.869281,91.046352",2078.97,212.56,49.07,67.42,41.0,16.2,thunderstorm,scheduled,overheated,9.9,7.8
+F422,powerload demand,"24.024918,91.125883",1918.94,184.21,45.81,43.0,38.6,13.6,windstorm,completed,normal,5.2,7.9
+F423,line breakage,"24.126171,91.129671",2169.76,219.36,36.93,57.2,41.0,20.1,rainy,scheduled,faulty,1.5,5.5
+F424,Transformer failure,"23.890005,90.858331",2188.42,247.03,39.84,42.77,28.7,22.4,windstorm,scheduled,faulty,3.4,9.4
+F425,line breakage,"24.059359,91.079701",2177.71,192.27,35.25,46.26,42.2,20.1,thunderstorm,scheduled,faulty,4.9,6.6
+F426,overheating,"24.136192,90.71795",1989.69,228.3,44.38,64.68,38.5,22.4,windstorm,scheduled,overheated,2.4,8.7
+F427,Transformer failure,"23.73421,91.015581",2144.82,194.07,41.03,60.51,37.6,16.0,clear,completed,faulty,9.5,3.1
+F428,powerload demand,"24.160465,91.198713",2137.82,217.51,46.97,38.34,38.6,12.3,clear,pending,normal,7.9,6.3
+F429,Transformer failure,"24.073383,90.916986",1927.64,186.77,40.94,50.0,42.7,21.1,windstorm,scheduled,faulty,3.4,6.1
+F430,line breakage,"23.749222,91.016874",2131.57,211.53,41.0,36.02,38.0,15.4,clear,completed,faulty,6.3,4.3
+F431,line breakage,"24.13629,90.921839",1814.8,232.93,49.86,51.83,37.9,20.1,rainy,completed,faulty,7.5,3.6
+F432,powerload demand,"24.047001,91.151712",2038.51,204.33,35.96,58.19,44.8,14.1,clear,completed,normal,9.5,7.2
+F433,overheating,"23.722995,91.098072",1892.0,226.54,53.06,39.15,40.9,11.2,thunderstorm,completed,overheated,8.9,9.1
+F434,line breakage,"23.846684,90.887421",1848.23,235.68,52.05,45.11,35.5,24.9,thunderstorm,completed,faulty,5.6,9.7
+F435,line breakage,"23.772785,90.965583",1830.78,244.9,48.36,48.92,40.0,12.3,rainy,completed,faulty,8.0,6.5
+F436,overheating,"23.982964,91.09626",2078.52,196.42,46.86,67.18,34.6,24.8,thunderstorm,scheduled,overheated,6.1,8.9
+F437,line breakage,"23.784992,90.739484",1935.95,207.95,52.85,69.76,31.9,24.7,clear,completed,faulty,6.0,3.2
+F438,powerload demand,"24.13542,91.009855",2089.91,190.67,38.71,36.57,38.1,21.9,windstorm,completed,normal,2.0,6.6
+F439,overheating,"23.820415,91.156415",1826.14,249.47,36.58,61.64,43.8,19.9,windstorm,scheduled,overheated,2.1,7.3
+F440,line breakage,"23.771559,90.930575",1926.12,244.89,39.79,48.01,43.8,18.7,thunderstorm,scheduled,faulty,5.8,8.6
+F441,line breakage,"23.826989,90.827663",2015.8,217.8,50.89,48.74,33.8,23.0,thunderstorm,pending,faulty,3.4,8.1
+F442,powerload demand,"23.704699,91.102317",2116.29,238.94,35.69,61.4,37.0,14.3,clear,completed,normal,1.2,6.5
+F443,Transformer failure,"24.150605,91.038805",1927.5,216.47,46.66,67.14,31.6,17.0,thunderstorm,completed,faulty,7.5,9.6
+F444,Transformer failure,"23.778988,90.920865",2050.36,223.65,54.91,68.28,44.9,19.3,rainy,pending,faulty,1.3,4.4
+F445,powerload demand,"23.872783,90.993786",2154.39,186.24,52.11,55.2,44.7,16.2,windstorm,completed,overheated,6.4,8.3
+F446,powerload demand,"24.019469,90.912154",2046.35,232.87,45.43,47.5,39.0,16.4,windstorm,completed,normal,5.9,7.9
+F447,powerload demand,"23.825049,91.122652",1893.18,188.94,36.27,62.56,41.7,15.0,windstorm,completed,normal,9.7,7.8
+F448,powerload demand,"23.799608,90.892347",1809.76,237.82,51.63,43.79,40.2,18.5,rainy,pending,faulty,5.4,6.7
+F449,Transformer failure,"23.941604,90.818603",2148.04,234.74,46.98,54.74,38.1,22.8,thunderstorm,completed,faulty,1.6,8.2
+F450,line breakage,"23.985961,90.987406",1808.51,229.61,37.3,47.55,28.9,13.0,rainy,completed,faulty,6.0,3.9
+F451,powerload demand,"24.196346,90.847615",2149.88,182.53,36.88,57.98,35.7,24.0,rainy,scheduled,normal,8.6,6.9
+F452,overheating,"24.188972,91.029115",2011.57,201.22,53.19,43.41,39.5,20.3,windstorm,pending,overheated,10.0,7.2
+F453,Transformer failure,"23.83724,90.982965",2175.63,198.42,48.38,41.71,39.5,22.3,clear,completed,faulty,4.9,3.8
+F454,powerload demand,"24.0429,91.072334",2119.51,205.21,51.59,67.14,34.3,18.3,thunderstorm,scheduled,overheated,3.9,7.0
+F455,line breakage,"23.724522,91.003203",2199.17,186.13,52.58,38.56,44.0,21.7,clear,pending,faulty,9.2,4.4
+F456,Transformer failure,"23.948364,91.152078",1940.28,245.59,46.44,52.71,30.8,10.2,rainy,completed,faulty,2.7,6.7
+F457,line breakage,"23.843097,91.09943",2106.88,218.77,45.35,42.73,36.5,22.3,thunderstorm,scheduled,faulty,6.5,9.2
+F458,Transformer failure,"24.003532,90.87616",1960.77,201.39,43.61,36.36,39.7,10.6,clear,completed,faulty,4.7,4.1
+F459,line breakage,"24.018309,91.010446",1991.95,207.79,41.34,36.26,39.9,23.3,rainy,completed,faulty,1.4,3.5
+F460,line breakage,"24.038882,91.060464",2051.0,211.3,43.69,41.13,39.0,24.9,windstorm,pending,faulty,4.1,8.7
+F461,line breakage,"24.029591,91.119169",2149.47,222.04,50.48,65.34,32.7,14.4,clear,scheduled,faulty,3.4,4.5
+F462,overheating,"24.014124,91.151702",2193.63,216.1,47.04,44.89,30.7,13.2,windstorm,pending,overheated,7.2,9.9
+F463,overheating,"24.02317,90.854466",2107.31,244.36,52.85,68.27,38.8,21.5,clear,completed,overheated,9.5,6.3
+F464,overheating,"23.920412,90.989787",1967.11,214.79,43.87,55.36,38.2,13.8,thunderstorm,scheduled,overheated,3.4,9.8
+F465,powerload demand,"24.06618,90.745067",1968.54,249.45,47.14,50.28,31.0,23.0,thunderstorm,pending,faulty,8.3,6.9
+F466,Transformer failure,"23.847555,91.07374",2095.03,239.6,47.63,55.3,40.0,11.5,windstorm,completed,faulty,1.5,7.2
+F467,Transformer failure,"23.78782,90.76608",1895.51,194.6,46.83,53.08,35.7,11.9,rainy,scheduled,faulty,5.8,5.9
+F468,powerload demand,"23.969704,91.185745",1844.19,245.14,49.05,61.56,39.4,24.7,thunderstorm,completed,normal,1.6,7.3
+F469,line breakage,"23.965426,91.156743",1941.85,188.15,39.75,44.89,42.2,20.1,windstorm,pending,faulty,9.4,7.0
+F470,powerload demand,"24.115236,90.828485",1914.9,237.22,45.25,47.36,30.9,22.7,windstorm,scheduled,normal,7.9,6.6
+F471,line breakage,"24.112345,90.940924",1918.52,206.64,37.08,66.29,28.3,14.9,clear,scheduled,faulty,6.9,5.2
+F472,powerload demand,"24.103244,91.07328",1893.44,241.46,42.69,68.13,41.2,20.1,thunderstorm,scheduled,normal,8.4,8.1
+F473,line breakage,"23.869358,90.757585",1816.84,240.76,44.75,66.24,38.4,18.9,windstorm,scheduled,faulty,6.8,6.5
+F474,powerload demand,"24.181447,90.770379",1807.15,236.41,48.04,49.68,39.9,19.0,rainy,completed,overheated,9.7,7.8
+F475,overheating,"24.18325,91.13007",2195.09,235.3,54.01,62.31,42.2,20.2,clear,completed,overheated,7.4,4.0
+F476,powerload demand,"24.062108,91.189971",1971.11,201.33,47.01,51.67,41.6,18.6,thunderstorm,scheduled,normal,9.3,7.6
+F477,line breakage,"24.183635,91.102294",1953.73,185.66,49.87,52.41,44.3,16.4,rainy,scheduled,faulty,5.7,5.6
+F478,overheating,"23.882888,91.095341",2071.86,208.21,45.13,42.16,37.1,14.1,thunderstorm,scheduled,overheated,2.1,6.2
+F479,powerload demand,"23.706959,90.968286",1887.3,192.15,47.68,55.69,36.3,21.5,windstorm,pending,normal,5.8,8.2
+F480,overheating,"23.927393,91.036414",2179.98,228.65,36.42,41.51,34.8,13.4,windstorm,scheduled,overheated,2.1,6.4
+F481,overheating,"24.03617,90.99228",2114.54,204.23,40.09,46.6,30.6,20.4,rainy,pending,overheated,6.3,6.1
+F482,overheating,"24.111209,91.170146",1835.76,248.29,42.24,64.93,37.7,13.5,rainy,completed,overheated,5.3,3.0
+F483,Transformer failure,"23.754173,90.816911",1967.03,224.87,44.45,42.25,32.7,19.4,thunderstorm,scheduled,faulty,6.6,8.2
+F484,overheating,"23.712512,91.142117",2151.65,237.57,35.91,37.49,43.7,21.2,rainy,pending,overheated,1.1,6.7
+F485,overheating,"23.980704,91.157628",2177.89,189.28,37.8,37.42,37.9,13.3,windstorm,completed,overheated,2.8,7.6
+F486,powerload demand,"23.810684,90.731609",1986.96,240.34,40.54,67.93,38.1,10.9,clear,completed,normal,5.4,8.6
+F487,line breakage,"24.111928,91.154694",2045.36,244.59,54.43,52.74,34.0,12.0,rainy,pending,faulty,9.6,4.9
+F488,Transformer failure,"23.851095,90.904148",1866.81,214.09,41.63,49.33,28.9,19.1,rainy,scheduled,faulty,4.5,3.8
+F489,powerload demand,"23.769889,91.173131",2196.47,222.44,44.64,63.38,28.5,22.7,clear,scheduled,overheated,4.8,7.0
+F490,powerload demand,"23.852182,90.946312",1892.67,233.54,38.92,64.25,35.2,10.7,thunderstorm,completed,normal,7.4,8.7
+F491,Transformer failure,"23.748596,91.14363",2177.09,192.24,47.22,46.63,29.4,21.0,clear,scheduled,faulty,6.4,3.4
+F492,overheating,"23.767832,90.926822",2059.86,215.18,40.61,59.28,38.3,15.1,clear,scheduled,overheated,3.7,5.3
+F493,Transformer failure,"24.035243,91.07157",2043.09,207.91,39.14,61.99,43.0,17.2,clear,scheduled,faulty,4.7,5.1
+F494,line breakage,"24.172987,90.909563",2005.08,190.25,45.33,57.91,43.0,23.9,clear,scheduled,faulty,3.0,5.9
+F495,Transformer failure,"24.071135,90.777261",1892.27,205.73,35.11,40.31,39.2,15.0,clear,completed,faulty,9.7,6.7
+F496,Transformer failure,"23.907442,90.749511",1870.61,184.77,35.15,65.66,31.6,17.0,thunderstorm,scheduled,faulty,2.2,9.7
+F497,overheating,"23.944674,90.904058",1888.19,181.81,39.38,53.87,42.7,10.2,clear,completed,overheated,4.3,3.7
+F498,line breakage,"24.175761,90.716358",1874.58,189.46,35.73,44.89,43.1,11.2,clear,completed,faulty,1.2,6.5
+F499,powerload demand,"23.885265,90.921692",2111.83,247.42,37.16,49.88,31.3,13.9,rainy,completed,overheated,3.0,8.8
+F500,powerload demand,"24.175278,91.127725",1940.05,218.47,41.78,36.31,40.5,10.4,thunderstorm,scheduled,normal,8.0,7.2
+F501,overheating,"23.749677,91.04284",1823.14,247.61,51.05,39.48,32.9,19.5,rainy,completed,overheated,2.8,5.0
+F502,overheating,"23.972233,91.188921",2187.64,210.27,46.44,61.79,41.6,16.4,rainy,scheduled,overheated,1.7,6.7
+F503,Transformer failure,"23.879337,90.89907",2153.51,201.83,45.25,35.0,45.0,18.2,windstorm,completed,faulty,5.3,9.8
+F504,powerload demand,"23.794904,90.76108",2171.1,215.43,40.87,49.58,28.5,12.6,clear,pending,normal,1.1,8.6
+F505,overheating,"24.124017,90.927359",2197.96,210.77,53.64,53.29,43.3,14.4,clear,completed,overheated,1.8,3.0
+F506,line breakage,"24.031384,91.020852",1869.56,187.4,42.94,36.91,38.6,20.0,clear,completed,faulty,8.3,5.3
+F507,powerload demand,"23.998573,90.710679",1958.5,224.86,36.74,69.06,44.5,24.5,windstorm,completed,normal,7.9,8.9
+F508,powerload demand,"24.093397,90.821784",2103.3,195.12,47.34,42.91,35.9,10.8,rainy,scheduled,faulty,9.2,9.0
+F509,powerload demand,"23.762962,90.982289",2078.41,223.37,37.28,45.65,42.4,23.4,thunderstorm,pending,normal,8.7,7.5
+F510,overheating,"23.734305,91.082579",1861.56,225.51,41.9,45.64,29.1,18.7,windstorm,pending,overheated,7.1,9.8
+F511,overheating,"23.803579,90.807976",2126.33,190.64,45.15,43.06,33.7,18.5,clear,scheduled,overheated,1.5,6.4
+F512,Transformer failure,"24.134848,90.86428",1889.78,184.29,52.48,35.05,29.1,17.5,clear,completed,faulty,8.0,4.9
+F513,powerload demand,"23.773777,91.150266",1889.53,234.65,44.87,60.53,44.6,11.0,rainy,pending,faulty,8.6,6.3
+F514,powerload demand,"23.701418,91.129203",2014.79,212.19,49.05,68.84,41.9,11.3,windstorm,pending,normal,8.2,7.4
+F515,line breakage,"23.772344,90.764996",2037.18,184.07,54.86,42.85,42.5,19.0,clear,completed,faulty,5.6,4.0
+F516,line breakage,"23.825327,90.787249",2032.03,249.64,37.63,58.21,43.9,15.1,clear,completed,faulty,3.1,3.7
+F517,Transformer failure,"24.030529,90.71289",1836.59,184.04,40.49,60.97,29.4,23.8,clear,scheduled,faulty,8.6,5.9
+F518,powerload demand,"23.70743,91.094992",2150.98,228.65,42.89,64.69,34.6,16.1,thunderstorm,pending,faulty,7.5,7.7
+F519,powerload demand,"23.818966,90.861886",1906.24,248.86,43.44,49.79,29.2,12.1,clear,scheduled,normal,9.8,6.5
+F520,line breakage,"23.787123,90.7262",1851.81,196.74,43.22,45.6,31.6,20.7,thunderstorm,completed,faulty,2.4,9.4
+F521,overheating,"24.070859,90.963043",2155.5,189.96,53.15,46.39,31.9,14.4,clear,scheduled,overheated,3.0,6.6
+F522,Transformer failure,"24.072833,90.938123",2182.26,188.5,49.28,59.94,36.0,17.9,rainy,scheduled,faulty,2.9,6.3
+F523,powerload demand,"24.089009,90.956619",2144.85,201.23,47.16,63.59,32.6,20.5,rainy,completed,normal,8.1,6.3
+F524,powerload demand,"23.754527,90.951919",2123.81,187.07,41.19,41.36,29.7,23.5,clear,pending,faulty,2.7,6.6
+F525,powerload demand,"24.172708,90.721683",2062.1,228.45,51.48,47.98,30.8,21.9,rainy,scheduled,normal,1.6,7.0
+F526,Transformer failure,"24.091613,91.13349",2020.34,184.36,54.1,66.57,30.5,20.1,rainy,completed,faulty,10.0,4.0
+F527,Transformer failure,"23.960726,90.929021",1834.79,215.66,51.42,63.23,44.5,20.2,thunderstorm,scheduled,faulty,1.2,7.0
+F528,Transformer failure,"24.182013,90.730413",1963.38,249.77,35.03,69.47,40.9,24.2,thunderstorm,scheduled,faulty,8.5,6.9
+F529,line breakage,"23.939491,90.900809",1949.08,236.98,47.73,61.4,44.5,14.4,windstorm,completed,faulty,4.3,9.0
+F530,powerload demand,"24.043049,90.945134",1903.9,223.07,36.02,48.76,35.5,10.0,rainy,completed,overheated,8.6,6.9
+F531,powerload demand,"24.15485,90.736745",2089.37,201.44,40.15,55.67,32.7,14.1,rainy,scheduled,normal,6.0,6.0
+F532,powerload demand,"23.740395,91.004149",1998.35,223.67,36.19,58.14,41.6,13.3,rainy,scheduled,normal,9.1,8.1
+F533,powerload demand,"23.732841,90.837508",1832.42,216.89,47.08,37.75,33.5,19.9,windstorm,scheduled,normal,9.3,6.4
+F534,overheating,"24.016538,90.974178",1888.07,209.83,48.73,54.06,33.1,19.5,thunderstorm,scheduled,overheated,1.1,7.2
+F535,powerload demand,"23.862593,91.197314",2073.3,189.15,37.29,59.83,32.0,18.9,clear,pending,normal,1.7,7.5
+F536,powerload demand,"23.965278,90.926858",1830.45,242.06,42.68,40.86,30.2,10.2,rainy,pending,faulty,3.3,8.1
+F537,powerload demand,"24.002713,90.749589",2140.48,211.48,44.12,62.32,32.4,20.9,clear,scheduled,faulty,7.0,6.4
+F538,line breakage,"24.05089,91.126396",1998.06,193.62,42.38,55.43,34.0,14.9,clear,completed,faulty,9.0,6.7
+F539,Transformer failure,"24.025458,91.084481",1992.23,205.74,37.42,68.33,39.5,20.0,clear,pending,faulty,5.1,4.2
+F540,line breakage,"24.06042,90.807512",2036.96,208.99,43.38,36.48,29.1,18.3,windstorm,scheduled,faulty,6.5,8.5
+F541,powerload demand,"23.925777,90.814247",2129.87,237.93,50.02,44.29,31.6,15.1,windstorm,pending,normal,2.7,6.4
+F542,overheating,"23.869466,90.926749",1939.12,231.35,36.42,56.05,41.8,12.0,rainy,pending,overheated,8.2,3.6
+F543,line breakage,"23.907995,90.747543",2071.21,233.85,36.6,45.38,30.5,11.4,rainy,scheduled,faulty,9.7,6.0
+F544,overheating,"23.913382,91.032554",2026.29,180.77,42.1,60.0,33.8,22.5,thunderstorm,scheduled,overheated,3.4,8.4
+F545,overheating,"23.887151,90.776319",1906.81,209.13,53.83,61.57,42.7,23.8,rainy,pending,overheated,5.5,4.7
+F546,Transformer failure,"24.161493,90.733567",2151.45,213.69,48.37,38.59,30.6,19.7,rainy,completed,faulty,1.8,5.2
+F547,line breakage,"24.115886,90.746615",2118.97,181.34,48.57,52.98,29.4,11.6,rainy,scheduled,faulty,6.0,4.9
+F548,overheating,"23.748282,91.069398",2063.38,198.19,42.24,52.81,36.2,16.0,rainy,scheduled,overheated,5.5,5.2
+F549,overheating,"24.105885,90.978185",2140.23,233.22,46.87,47.92,33.1,20.9,clear,completed,overheated,2.3,5.7
+F550,powerload demand,"23.993233,90.980793",2146.92,189.6,35.2,67.65,37.6,21.7,thunderstorm,completed,overheated,5.0,6.7
+F551,overheating,"23.864823,90.761116",2083.35,217.47,47.72,63.96,41.7,11.8,clear,completed,overheated,4.0,6.0
+F552,powerload demand,"23.876799,91.03267",2134.81,195.06,53.27,59.4,30.3,10.0,clear,pending,normal,5.7,6.2
+F553,overheating,"24.075142,91.134046",2078.99,180.85,47.25,60.0,37.9,20.7,windstorm,scheduled,overheated,6.3,7.8
+F554,overheating,"24.06053,91.184199",2072.06,196.88,52.47,51.16,36.6,15.3,clear,completed,overheated,1.1,5.8
+F555,powerload demand,"24.000205,90.875823",2047.44,248.31,49.48,67.23,30.4,13.8,thunderstorm,completed,normal,7.8,7.7
+F556,Transformer failure,"23.988959,90.806369",2101.09,236.11,37.41,59.31,38.6,10.2,thunderstorm,completed,faulty,7.4,6.2
+F557,line breakage,"24.028368,90.812122",1863.44,247.17,53.05,60.51,32.7,18.1,rainy,scheduled,faulty,4.3,5.2
+F558,line breakage,"23.754109,91.122687",2152.35,214.15,36.33,65.16,36.3,22.8,windstorm,pending,faulty,1.5,8.0
+F559,powerload demand,"23.883781,91.081303",2148.74,187.68,45.68,44.59,29.4,24.4,clear,pending,faulty,7.8,6.4
+F560,overheating,"23.98705,91.103611",1811.7,218.36,37.84,63.25,35.8,18.5,thunderstorm,completed,overheated,9.6,7.3
+F561,overheating,"24.122578,91.187273",2130.33,211.81,35.23,41.83,33.2,17.7,clear,completed,overheated,3.2,5.1
+F562,line breakage,"24.109213,91.006787",1851.55,239.1,43.44,47.09,42.0,11.3,thunderstorm,scheduled,faulty,3.9,6.5
+F563,line breakage,"24.02135,90.713127",1934.05,186.87,40.9,46.75,29.0,18.2,windstorm,completed,faulty,2.7,6.8
+F564,line breakage,"24.164542,91.11473",2097.4,214.18,44.72,69.25,35.1,15.7,rainy,completed,faulty,6.2,5.3
+F565,Transformer failure,"23.833724,90.790208",1864.3,190.5,46.54,64.98,35.8,19.1,clear,completed,faulty,2.4,3.4
+F566,overheating,"24.051349,90.854492",2127.19,202.73,35.87,59.54,40.3,15.8,thunderstorm,pending,overheated,4.2,8.0
+F567,Transformer failure,"23.869912,90.703053",2132.85,231.61,37.46,60.45,37.8,13.6,thunderstorm,completed,faulty,7.3,9.2
+F568,Transformer failure,"24.134931,90.983161",2002.99,213.32,46.17,54.67,39.3,11.4,rainy,scheduled,faulty,6.0,4.8
+F569,powerload demand,"23.900392,90.770937",1802.55,206.31,41.86,68.15,41.2,14.7,windstorm,completed,overheated,4.5,7.4
+F570,Transformer failure,"24.016586,90.715329",1914.82,207.61,49.58,52.37,42.7,11.4,clear,scheduled,faulty,4.8,3.2
+F571,overheating,"24.073056,90.807566",2046.77,212.16,48.05,48.32,33.3,12.7,rainy,scheduled,overheated,6.1,4.8
+F572,powerload demand,"23.909916,90.870448",2192.47,234.95,51.91,40.71,37.1,24.8,clear,scheduled,normal,1.1,8.2
+F573,Transformer failure,"23.885027,91.060798",2052.73,242.45,48.85,62.52,42.3,16.7,rainy,completed,faulty,1.7,4.6
+F574,overheating,"24.088418,90.983797",1903.92,246.87,43.6,60.71,44.8,18.0,thunderstorm,completed,overheated,8.9,9.3
+F575,powerload demand,"23.742479,90.726304",2053.6,235.08,48.46,48.45,43.1,23.1,clear,completed,normal,1.7,7.7
+F576,powerload demand,"23.778705,91.008919",2015.99,202.08,40.51,35.88,34.3,24.9,thunderstorm,completed,overheated,7.4,7.0
+F577,line breakage,"24.036984,90.836051",2111.94,228.17,41.13,64.36,31.3,18.7,rainy,completed,faulty,9.3,3.3
+F578,powerload demand,"24.030969,90.942831",1842.79,210.63,50.78,35.4,36.3,22.2,clear,scheduled,normal,3.4,8.8
+F579,Transformer failure,"23.921022,90.836583",2104.41,197.83,43.93,59.63,40.6,14.9,rainy,pending,faulty,4.3,3.3
+F580,Transformer failure,"24.077472,90.756909",2016.51,238.86,50.97,68.96,36.4,14.6,rainy,scheduled,faulty,6.1,6.7
+F581,Transformer failure,"23.914957,90.841623",2185.2,182.69,51.45,50.32,36.2,16.0,rainy,scheduled,faulty,8.9,3.1
+F582,powerload demand,"24.039243,90.943316",1936.75,243.12,52.15,43.22,42.2,20.1,rainy,completed,normal,9.5,8.3
+F583,Transformer failure,"24.033566,90.722709",2053.05,212.3,53.33,59.67,34.1,20.2,clear,scheduled,faulty,7.7,6.1
+F584,Transformer failure,"23.897632,90.999662",2172.81,224.6,43.62,63.6,42.6,14.7,rainy,scheduled,faulty,1.8,6.9
+F585,overheating,"23.703844,90.85071",1841.0,226.15,41.38,54.13,34.9,12.0,clear,completed,overheated,7.0,5.6
+F586,line breakage,"23.805617,90.768617",2174.89,242.66,46.64,68.85,33.6,19.5,clear,completed,faulty,4.7,4.7
+F587,line breakage,"23.82776,90.864061",2075.15,224.57,42.42,36.81,35.7,11.9,thunderstorm,completed,faulty,5.2,10.0
+F588,line breakage,"23.703865,91.073507",1827.13,222.98,47.02,52.67,41.0,18.7,thunderstorm,pending,faulty,1.4,7.5
+F589,line breakage,"23.787847,90.890104",1920.39,184.67,49.11,60.15,30.1,20.4,clear,completed,faulty,2.7,6.5
+F590,line breakage,"24.051836,90.950131",2083.27,216.29,48.77,65.19,31.3,20.5,clear,pending,faulty,8.1,6.6
+F591,line breakage,"24.116677,91.1031",1826.94,190.51,42.49,41.27,44.2,21.3,rainy,scheduled,faulty,5.1,4.5
+F592,overheating,"23.736038,91.130882",2032.87,231.62,38.34,63.0,31.0,23.1,thunderstorm,completed,overheated,3.7,8.7
+F593,line breakage,"23.721151,90.709371",1938.35,215.86,43.61,54.34,37.7,17.5,rainy,pending,faulty,4.5,5.6
+F594,Transformer failure,"24.160581,91.131055",2048.37,227.62,37.85,48.88,37.8,21.0,rainy,completed,faulty,8.7,5.2
+F595,powerload demand,"23.98788,90.9867",1818.3,182.92,52.8,39.61,36.3,19.3,rainy,completed,normal,7.7,7.0
+F596,Transformer failure,"24.054749,90.908847",2148.61,185.94,41.92,65.29,39.0,12.8,clear,scheduled,faulty,3.5,3.7
+F597,overheating,"23.757587,90.710428",2189.4,230.14,38.09,40.5,31.9,10.4,rainy,scheduled,overheated,2.1,5.1
+F598,line breakage,"23.862384,91.100661",2187.55,185.05,35.51,45.84,37.4,14.3,windstorm,completed,faulty,3.3,8.1
+F599,line breakage,"24.009063,91.116013",2099.86,184.99,47.92,45.15,34.3,16.6,rainy,scheduled,faulty,9.3,5.9
+F600,line breakage,"24.159885,90.744065",1852.03,180.85,47.74,65.5,39.2,19.3,windstorm,pending,faulty,6.2,6.9
